@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "RPA R-4020 EFD-Reinf"
+message: "Se utilizar este software ou artefato tecnológico, cite este repositório."
+type: software
+authors:
+  - family-names: "Alvarenga"
+    given-names: "Edilane"
+abstract: "Solução de Robotic Process Automation desenvolvida em Python para apoio ao lançamento de informações do evento R-4020 da EFD-Reinf em contexto de Administração Pública."
+keywords:
+  - RPA
+  - EFD-Reinf
+  - Administração Pública
+  - Python
+  - Automação Robótica de Processos
+license: "CC-BY-4.0"
+repository-code: "https://github.com/edilanealvarenga27/rpa-r4020-efd-reinf"
