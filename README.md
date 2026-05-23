@@ -1,5 +1,9 @@
 # RPA R-4020 EFD-Reinf
 
+## Interface do Sistema
+
+![Interface do Robô](screenshot_interface.png)
+
 ## Sobre o Projeto
 
 Este projeto consiste em uma solução de Robotic Process Automation (RPA) desenvolvida para automatizar tarefas operacionais relacionadas ao evento R-4020 da EFD-Reinf em contexto de Administração Pública.
