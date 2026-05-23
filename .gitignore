@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+
+# Build do PyInstaller
+build/
+dist/
+
+# Arquivos temporários Python
+__pycache__/
+*.pyc
+
+# Arquivos do PyInstaller
+*.spec
+
+# Logs
+*.log
+
+# Prints de erro
+erro_*.png
+
+# Configurações IDE
+.idea/
+.vscode/
+
+# Arquivos do sistema
+Thumbs.db
+.DS_Store
